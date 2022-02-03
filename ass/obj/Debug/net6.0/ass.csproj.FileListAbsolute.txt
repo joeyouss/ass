@@ -1,0 +1,15 @@
+/Users/joe/projects/forjoe/ass/obj/Debug/net6.0/ass.csproj.AssemblyReference.cache
+/Users/joe/projects/forjoe/ass/obj/Debug/net6.0/ass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/projects/forjoe/ass/obj/Debug/net6.0/ass.AssemblyInfoInputs.cache
+/Users/joe/projects/forjoe/ass/obj/Debug/net6.0/ass.AssemblyInfo.cs
+/Users/joe/projects/forjoe/ass/obj/Debug/net6.0/ass.csproj.CoreCompileInputs.cache
+/Users/joe/projects/forjoe/ass/bin/Debug/net6.0/ass
+/Users/joe/projects/forjoe/ass/bin/Debug/net6.0/ass.deps.json
+/Users/joe/projects/forjoe/ass/bin/Debug/net6.0/ass.runtimeconfig.json
+/Users/joe/projects/forjoe/ass/bin/Debug/net6.0/ass.dll
+/Users/joe/projects/forjoe/ass/bin/Debug/net6.0/ref/ass.dll
+/Users/joe/projects/forjoe/ass/bin/Debug/net6.0/ass.pdb
+/Users/joe/projects/forjoe/ass/obj/Debug/net6.0/ass.dll
+/Users/joe/projects/forjoe/ass/obj/Debug/net6.0/ref/ass.dll
+/Users/joe/projects/forjoe/ass/obj/Debug/net6.0/ass.pdb
+/Users/joe/projects/forjoe/ass/obj/Debug/net6.0/ass.genruntimeconfig.cache
